@@ -1,5 +1,7 @@
-
 ## ica4
+
+## Description of strata_user.airbnb_sq
+This dataset is about the searching information of the airbnb users, like their check in and check out date, amount of guests, origin country, time of search, and filter price, we can know users' preference from this dataset.
 
 ## Question 1
 How many people search for a host on Airbnb every day during first week 2014?
